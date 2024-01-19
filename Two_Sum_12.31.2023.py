@@ -11,5 +11,5 @@ nums = [1,2,3]
 for i in nums:
     a = i + 5
     print(a)
-    time.sleep(2)
+    time.sleep(3)
 
